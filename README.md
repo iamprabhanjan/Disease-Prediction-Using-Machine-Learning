@@ -10,8 +10,6 @@ This project is a graphical user interface (GUI) application built using Python'
 - [Machine Learning Algorithms](#machine-learning-algorithms)
 - [Data](#data)
 - [GUI](#gui)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
